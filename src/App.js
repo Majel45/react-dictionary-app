@@ -14,8 +14,8 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>This project was coded by Marilyn Greve and is 
-            <a href="https://github.com/Majel45/dictionary-project" target="_blank" rel="nonreferrer"> open-sourced on GitHub </a> and 
-            <a href="https://elastic-hoover-12197e.netlify.app/" target="_blank" rel="nonreferrer"> hosted on Netlify</a></small>
+            <a href="https://github.com/Majel45/dictionary-project" target="_blank" rel="noreferrer"> open-sourced on GitHub </a> and 
+            <a href="https://elastic-hoover-12197e.netlify.app/" target="_blank" rel="noreferrer"> hosted on Netlify</a></small>
         </footer>
       </div>
     </div>
