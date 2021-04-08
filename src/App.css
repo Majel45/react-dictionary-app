@@ -3,7 +3,17 @@ body {
 }
 
 a {
-  color: #9771f3;
+  color: #6c63ff;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #6c63ff;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App-header {
